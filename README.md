@@ -25,7 +25,7 @@ Transform complex data center metrics into an engaging narrative that showcases:
 
 ---
 
-## 🛸 Features That Will Blow Your Mind
+## 🛸 Features That I Hope Will Blow Your Mind
 
 ### 📊 **Interactive Data Storytelling**
 - **7 Revolutionary Slides** of pure visual genius
@@ -48,6 +48,10 @@ Transform complex data center metrics into an engaging narrative that showcases:
 ---
 
 ## 🚀 The Technology Stack
+- **Python**
+- **pandas  Data manipulation & CSV operations**
+- **numpy   Numerical computations**
+- **requests  API data fetching**
 
 ### Core Visualizations
 ```
@@ -186,8 +190,4 @@ MIT License - Because the future of computing should be open source.
 
 **Ready to join the revolution? The data center industry will never look the same.** 🚀✨
 
----
 
-**Built with 💫 by visionaries who see beyond Earth's atmosphere**
-
-*May the force of efficient cooling be with you, always.*
