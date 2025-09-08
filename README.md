@@ -48,7 +48,7 @@ Transform complex data center metrics into an engaging narrative that showcases:
 ---
 
 ## 🚀 The Technology Stack
-- Leveraged SQL Server for data extraction, Python for advanced analytics, and Tableau for intuitive visualization to decode complex patterns — delivering actionable insights.
+- Leveraged SQL Server for data extraction, Python for advanced analytics, and Tableau for intuitive visualization to decode complex patterns — delivering actionable insights. Included the cleaned, ready-to-plug-and-play data set.
   
 ### Core Visualizations
 ```
