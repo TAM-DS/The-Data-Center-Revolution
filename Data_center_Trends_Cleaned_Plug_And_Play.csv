@@ -1,0 +1,49 @@
+Year,AI_ML_Processing_Power_PFLOPS,Sustainability_Green_Energy_Percent,Advanced_Cooling_PUE_Rating,Network_Capacity_Tbps,Natural_Gas_Usage_TWh,Cloud_Computing_Market_Billion_USD,Region,Data_Center_Type,Company_Size
+2018,45.2,15.3,1.67,8.5,145.2,182.4,North America,Enterprise,Large
+2018,32.1,12.8,1.72,6.2,89.7,182.4,Europe,Colocation,Medium
+2018,28.9,8.9,1.78,4.8,67.3,182.4,Asia Pacific,Hyperscale,Large
+2018,15.6,18.2,1.65,3.2,45.8,182.4,North America,Edge,Small
+2018,22.4,9.5,1.74,5.1,78.9,182.4,Europe,Enterprise,Medium
+2018,38.7,11.2,1.69,7.3,123.4,182.4,Asia Pacific,Hyperscale,Large
+2019,67.8,19.7,1.58,11.2,152.8,214.3,North America,Enterprise,Large
+2019,48.5,16.4,1.64,8.9,94.2,214.3,Europe,Colocation,Medium
+2019,52.3,13.6,1.71,7.6,71.5,214.3,Asia Pacific,Hyperscale,Large
+2019,25.9,22.1,1.59,4.8,48.3,214.3,North America,Edge,Small
+2019,34.7,14.8,1.67,6.7,83.7,214.3,Europe,Enterprise,Medium
+2019,61.2,16.3,1.61,9.8,134.9,214.3,Asia Pacific,Hyperscale,Large
+2020,98.4,28.5,1.52,15.7,159.3,257.1,North America,Enterprise,Large
+2020,72.1,24.2,1.58,12.4,98.6,257.1,Europe,Colocation,Medium
+2020,89.6,21.4,1.63,11.8,75.8,257.1,Asia Pacific,Hyperscale,Large
+2020,41.3,28.9,1.51,7.2,51.2,257.1,North America,Edge,Small
+2020,58.9,22.6,1.59,9.5,88.4,257.1,Europe,Enterprise,Medium
+2020,112.7,23.8,1.55,13.9,142.7,257.1,Asia Pacific,Hyperscale,Large
+2021,142.6,35.4,1.47,21.3,165.7,312.8,North America,Enterprise,Large
+2021,105.8,31.7,1.53,17.8,103.2,312.8,Europe,Colocation,Medium
+2021,134.2,28.9,1.57,16.4,79.4,312.8,Asia Pacific,Hyperscale,Large
+2021,68.5,34.2,1.46,11.3,54.7,312.8,North America,Edge,Small
+2021,89.7,29.8,1.52,13.2,93.1,312.8,Europe,Enterprise,Medium
+2021,167.4,31.5,1.49,18.7,148.9,312.8,Asia Pacific,Hyperscale,Large
+2022,208.9,45.2,1.41,28.9,172.4,378.4,North America,Enterprise,Large
+2022,156.3,42.8,1.47,24.6,107.8,378.4,Europe,Colocation,Medium
+2022,189.7,38.6,1.51,23.2,83.7,378.4,Asia Pacific,Hyperscale,Large
+2022,102.4,43.7,1.39,16.8,58.9,378.4,North America,Edge,Small
+2022,134.8,39.4,1.46,18.9,98.6,378.4,Europe,Enterprise,Medium
+2022,245.1,40.2,1.43,26.4,156.2,378.4,Asia Pacific,Hyperscale,Large
+2023,312.7,58.6,1.35,39.4,178.9,456.7,North America,Enterprise,Large
+2023,234.9,55.3,1.41,34.2,112.4,456.7,Europe,Colocation,Medium
+2023,287.4,49.8,1.45,32.7,87.3,456.7,Asia Pacific,Hyperscale,Large
+2023,156.8,56.9,1.33,24.6,62.8,456.7,North America,Edge,Small
+2023,198.6,52.7,1.39,27.3,103.7,456.7,Europe,Enterprise,Medium
+2023,367.2,51.4,1.37,37.8,162.5,456.7,Asia Pacific,Hyperscale,Large
+2024,467.3,68.4,1.29,52.8,185.2,548.9,North America,Enterprise,Large
+2024,342.6,65.7,1.35,46.3,116.9,548.9,Europe,Colocation,Medium
+2024,421.8,58.9,1.39,44.1,91.6,548.9,Asia Pacific,Hyperscale,Large
+2024,234.7,67.2,1.27,34.5,67.4,548.9,North America,Edge,Small
+2024,289.4,61.8,1.33,38.7,109.2,548.9,Europe,Enterprise,Medium
+2024,523.6,59.3,1.31,51.2,169.8,548.9,Asia Pacific,Hyperscale,Large
+2025,612.5,76.8,1.24,68.9,191.7,642.3,North America,Enterprise,Large
+2025,456.8,74.2,1.30,59.8,121.3,642.3,Europe,Colocation,Medium
+2025,547.9,66.7,1.34,57.6,95.8,642.3,Asia Pacific,Hyperscale,Large
+2025,318.9,75.4,1.22,45.7,71.2,642.3,North America,Edge,Small
+2025,387.2,69.9,1.28,50.4,114.6,642.3,Europe,Enterprise,Medium
+2025,678.4,67.1,1.26,66.3,176.4,642.3,Asia Pacific,Hyperscale,Large
